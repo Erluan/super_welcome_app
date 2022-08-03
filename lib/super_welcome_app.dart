@@ -1,1 +1,1 @@
-export 'presentations/screens/super_welcome_app_screen.dart';
+export 'presentations/super_welcome_app_relay.dart';
